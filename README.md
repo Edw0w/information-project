@@ -486,3 +486,17 @@ ID_PRODUTO	NOME	IMAGEM	DESCRICAO	QTDE_PRODUTO	VALOR(R$)	PESO(em kg)	Unidade (Lí
 40	Ovos Brancos 12 unidades		Fonte de proteína, embalagem com 12	1	 R$ 12,50 	0,72	Peso	APROXIMADO	13	Ruan Henrique Almeida	Alto	
 
 
+
+
+<img width="1416" height="582" alt="image" src="https://github.com/user-attachments/assets/843a8a1a-1243-413e-a8fe-f2ef5ebf26f2" />
+
+<img width="1409" height="648" alt="image" src="https://github.com/user-attachments/assets/d439c4ec-5843-440b-9119-f98e827790fb" />
+
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/321874e9-8df1-4e1d-b1b1-93595fa00988" />
+
+<img width="1489" height="687" alt="image" src="https://github.com/user-attachments/assets/55b3c15e-5a4e-48d1-9c83-f33239632781" />
+
+<img width="1485" height="661" alt="image" src="https://github.com/user-attachments/assets/6b0b4624-128f-47e9-842f-f2310c5b8986" />
+
+<img width="1885" height="785" alt="image" src="https://github.com/user-attachments/assets/cf7337cf-add0-4696-aefb-4e2abd7f8dd5" />
+
