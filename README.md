@@ -434,10 +434,55 @@ End Sub
 
 <img width="1224" height="796" alt="image" src="https://github.com/user-attachments/assets/928d2fe4-6a9d-4326-a3cd-5609c9ce5ad6" />
 
+<img width="1856" height="812" alt="image" src="https://github.com/user-attachments/assets/28bbe207-2157-43d6-ad0c-daa36a360d14" />
 
+<img width="1911" height="797" alt="image" src="https://github.com/user-attachments/assets/b03006b6-82c9-4d4b-b075-a11c2820c2cb" />
 
+<img width="1892" height="801" alt="image" src="https://github.com/user-attachments/assets/8af994c7-3f68-4176-8888-dce15a1f05cf" />
 
+<img width="1990" height="1515" alt="image" src="https://github.com/user-attachments/assets/9ac080b5-66e6-4829-9d95-25594295f205" />
 
-
+PRODUTOS DO MERCADO ONLINE												
+ID_PRODUTO	NOME	IMAGEM	DESCRICAO	QTDE_PRODUTO	VALOR(R$)	PESO(em kg)	Unidade (Líquido/Peso)	COMPLEMENTO_PESO	ID_EMPRESA	DONO_MERCADO	RISCO	ESTOQUE
+1	Arroz Integral 1kg		Grão longo, rico em fibras	1	 R$ 8,90 	1,00	Peso	EXATO	11	Felix Carlos Ferreira	Baixo 	23
+2	Feijão Carioca 1kg		Tradicional, sabor marcante	1	 R$ 7,50 	1,00	Peso	EXATO	11	Felix Carlos Ferreira	Baixo 	25
+3	Açúcar Refinado 1kg		Açúcar branco cristalizado	1	 R$ 5,10 	1,00	Peso	EXATO	11	Felix Carlos Ferreira	Baixo 	2
+4	Sal Refinado 1kg		Sal de cozinha refinado	1	 R$ 3,20 	1,00	Peso	EXATO	11	Felix Carlos Ferreira	Baixo 	45
+5	Macarrão Espaguete 500g		Massa tradicional para molhos	1	 R$ 4,70 	0,50	Peso	EXATO	11	Felix Carlos Ferreira	Baixo 	12
+6	Farinha de Trigo 1kg		Base para pães, bolos e massas	1	 R$ 6,40 	1,00	Peso	EXATO	11	Felix Carlos Ferreira	Baixo 	12
+7	Café Torrado e Moído 500g		Café forte e aromático	1	 R$ 14,90 	0,50	Peso	EXATO	11	Felix Carlos Ferreira	Baixo 	23
+8	Biscoito Cream Cracker 400g		Crocante e leve	1	 R$ 7,20 	0,40	Peso	EXATO	11	Felix Carlos Ferreira	Médio	11
+9	Batata 2kg		Hortaliça versátil para diversas receitas	1	 R$ 9,90 	2,00	Peso	EXATO	11	Felix Carlos Ferreira	Baixo 	32
+10	Tomate 1kg		Fresco, ideal para saladas e molhos	1	 R$ 7,80 	1,00	Peso	EXATO	11	Felix Carlos Ferreira	Alto	56
+11	Leite Integral 1L		Fonte de cálcio e proteínas	1	 R$ 5,20 	1,03	Liquido	APROXIMADO	11	Felix Carlos Ferreira	Baixo 	73
+12	Óleo de Soja 900ml		Óleo vegetal versátil	1	 R$ 6,40 	0,83	Liquido	APROXIMADO	11	Felix Carlos Ferreira	Baixo 	34
+13	Suco de Laranja 1L		100% natural, sem conservantes	1	 R$ 6,90 	1,05	Liquido	APROXIMADO	11	Felix Carlos Ferreira	Baixo 	12
+14	Refrigerante Cola 2L		Bebida gaseificada sabor cola	1	 R$ 8,50 	2,00	Liquido	APROXIMADO	11	Felix Carlos Ferreira	Baixo 	54
+15	Água Mineral 1,5L		Natural e refrescante	1	 R$ 3,00 	1,50	Liquido	APROXIMADO	11	Felix Carlos Ferreira	Baixo 	12
+16	Iogurte Natural 170g		Cremoso, fonte de probióticos	1	 R$ 2,80 	0,17	Peso	EXATO	11	Felix Carlos Ferreira	Baixo 	23
+17	Queijo Mussarela 500g		Fatiado, sabor suave	1	 R$ 18,90 	0,50	Peso	EXATO	12	Jessica Souza Lima	Alto	
+18	Carne Bovina (Patinho) 1kg		Corte magro, ideal para bifes	1	 R$ 39,90 	1,00	Peso	EXATO	12	Jessica Souza Lima	Alto	
+19	Frango Inteiro 1,2kg		Carne branca, versátil	1	 R$ 24,90 	1,20	Peso	EXATO	12	Jessica Souza Lima	Alto	
+20	Ovos Brancos 12 unidades		Fonte de proteína, embalagem com 12 unidades	1	 R$ 12,50 	0,72	Peso	EXATO	12	Jessica Souza Lima	Alto	
+21	Arroz Integral 1kg		Grão longo, rico em fibras	1	 R$ 8,90 	1,00	Peso	EXATO	12	Jessica Souza Lima	Baixo 	
+22	Feijão Carioca 1kg		Tradicional, sabor marcante	1	 R$ 7,50 	1,00	Peso	EXATO	12	Jessica Souza Lima	Baixo 	
+23	Açúcar Refinado 1kg		Açúcar branco cristalizado	1	 R$ 5,10 	1,00	Peso	EXATO	12	Jessica Souza Lima	Baixo 	
+24	Sal Refinado 1kg		Sal de cozinha refinado	1	 R$ 3,20 	1,00	Peso	EXATO	12	Jessica Souza Lima	Baixo 	
+25	Macarrão Espaguete 500g		Massa tradicional para molhos	1	 R$ 4,70 	0,50	Peso	EXATO	12	Jessica Souza Lima	Baixo 	
+26	Farinha de Trigo 1kg		Base para pães, bolos e massas	1	 R$ 6,40 	1,00	Peso	EXATO	12	Jessica Souza Lima	Baixo 	
+27	Café Torrado e Moído 500g		Café forte e aromático	1	 R$ 14,90 	0,50	Peso	EXATO	12	Jessica Souza Lima	Baixo 	
+28	Biscoito Cream Cracker 400g		Crocante e leve	1	 R$ 7,20 	0,40	Peso	EXATO	12	Jessica Souza Lima	Baixo 	
+29	Batata 2kg		Hortaliça versátil para diversas receitas	1	 R$ 9,90 	2,00	Peso	EXATO	13	Ruan Henrique Almeida	Baixo 	
+30	Tomate 1kg		Fresco, ideal para saladas e molhos	1	 R$ 7,80 	1,00	Peso	EXATO	13	Ruan Henrique Almeida	Alto	
+31	Leite Integral 1L		Fonte de cálcio e proteínas	1	 R$ 5,20 	1,03	Líquido	APROXIMADO	13	Ruan Henrique Almeida	Alto	
+32	Óleo de Soja 900ml		Óleo vegetal versátil	1	 R$ 6,40 	0,83	Líquido	APROXIMADO	13	Ruan Henrique Almeida	Baixo 	
+33	Suco de Laranja 1L		100% natural, sem conservantes	1	 R$ 6,90 	1,05	Líquido	APROXIMADO	13	Ruan Henrique Almeida	Alto	
+34	Refrigerante Cola 2L		Bebida gaseificada sabor cola	1	 R$ 8,50 	2,00	Líquido	APROXIMADO	13	Ruan Henrique Almeida	Baixo 	
+35	Água Mineral 1,5L		Natural e refrescante	1	 R$ 3,00 	1,50	Líquido	APROXIMADO	13	Ruan Henrique Almeida	Baixo 	
+36	Iogurte Natural 170g		Cremoso, fonte de probióticos	1	 R$ 2,80 	0,17	Peso	EXATO	13	Ruan Henrique Almeida	Alto	
+37	Queijo Mussarela 500g		Fatiado, sabor suave	1	 R$ 18,90 	0,50	Peso	EXATO	13	Ruan Henrique Almeida	Alto	
+38	Carne Bovina (Patinho) 1kg		Corte magro, ideal para bifes	1	 R$ 39,90 	1,00	Peso	EXATO	13	Ruan Henrique Almeida	Alto	
+39	Frango Inteiro 1,2kg		Carne branca, versátil	1	 R$ 24,90 	1,20	Peso	EXATO	13	Ruan Henrique Almeida	Alto	
+40	Ovos Brancos 12 unidades		Fonte de proteína, embalagem com 12	1	 R$ 12,50 	0,72	Peso	APROXIMADO	13	Ruan Henrique Almeida	Alto	
 
 
